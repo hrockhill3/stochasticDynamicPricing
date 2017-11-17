@@ -10,10 +10,9 @@ c=29
 
 landa=30
 #number of people arriving in one t period. landa=lead/(numOfDayMonth*24*4)
-#it corresponds to 4 changes every hour. coincidence landa=15 and 15 mins
+#it corresponds to 2 changes every hour. coincidence landa=30 and 30 mins
 T=24
-#T corresponds to 6 hours. Every 6 hours we run again
-
+#T corresponds to 12 hours.
 
 
 listRound=[11,17,21,25,37,39,42,45,48,51,57,59,65,67,79,85,89]
